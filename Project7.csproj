@@ -78,6 +78,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AtributeController.cs" />
     <Compile Include="Assets\AtributePanel.cs" />
     <Compile Include="Assets\Scenes\GameController.cs" />
     <Compile Include="Assets\Scenes\IDamagebled.cs" />

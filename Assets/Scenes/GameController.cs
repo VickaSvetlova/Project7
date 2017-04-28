@@ -32,7 +32,7 @@ public class GameController : MonoBehaviour
                 break;
             }
 
-            if (RandomNum() > Damagerange[i])
+            if (RandomNum() >= Damagerange[i])
             {
                 for (int j = 0; j < Damagerange.Length; j++)
                 {
